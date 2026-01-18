@@ -3,7 +3,8 @@
 This repository contains data, scripts and results relating to practical 08 of the MRes Bioinformatics for Biomedical Scientists Module, MMB8052. Scripts and results correspond to the Methods and Results sections of the associated lab report, respectively.
 
 ## Author
-Christopher Mason, student number: 200083791
+Christopher Mason
+Student Number: 200083791
 
 ## Repository structure
 
@@ -18,10 +19,8 @@ Christopher Mason, student number: 200083791
   Placeholder directory for input data (raw and intermediate data files are not stored here).
 
 ## Input Data 
-Input data is in the form of one directory containing Salmon counts.
-The `counts/` directory should be downloaded to the R working directory and unzipped to allow import into R.
-The count data can be downloaded from the link: https://github.com/sjcockell/mmb8052/raw/main/practicals/practical_08/results/counts.zip
-
+Input data is in the form of one directory containing Salmon counts. The `counts/` directory should be downloaded to the R working directory and unzipped to allow import into R. The count data can be downloaded from the link:
+https://github.com/sjcockell/mmb8052/raw/main/practicals/practical_08/results/counts.zip
 
 ## To reproduce the analysis:
 Once count data has been downloaded, the scripts should be ran in order to generate the results and figures included in the lab report.
