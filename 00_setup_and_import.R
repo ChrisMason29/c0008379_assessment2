@@ -12,6 +12,7 @@ library(tidyverse)
 library(ggrepel)
 library(patchwork)
 library(viridis)
+library(ggplot)
 
 
 ## Import data ----------------------------------------------------------
