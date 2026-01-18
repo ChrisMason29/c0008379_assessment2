@@ -3,7 +3,7 @@
 This repository contains data, scripts and results relating to practical 08 of the MRes Bioinformatics for Biomedical Scientists Module, MMB8052. Scripts and results correspond to the Methods and Results sections of the associated lab report, respectively.
 
 ## Author
-# Christopher Mason
+### Christopher Mason
 Student Number: 200083791
 
 ## Repository structure
