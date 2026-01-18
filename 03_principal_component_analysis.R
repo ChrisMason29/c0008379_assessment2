@@ -1,4 +1,4 @@
-# 03_pca.R
+# 03_principal_component_analysis.R
 # Purpose: PCA of RNA-seq samples using DESeq2 rlog-transformed counts
 
 # Prerequisites:
