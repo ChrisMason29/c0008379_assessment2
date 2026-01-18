@@ -13,6 +13,8 @@ library(ggrepel)
 library(patchwork)
 library(viridis)
 library(ggplot)
+library(viridisLite)
+library(RColorBrewer)
 
 
 ## Import data ----------------------------------------------------------
